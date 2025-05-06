@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 author 'Kakarot'
-description 'Allows players to create multiple characters'
+description 'Edited by kool_damon'
 version '1.2.0'
 
 shared_scripts {
